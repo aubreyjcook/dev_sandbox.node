@@ -10,8 +10,11 @@
   "keywords": [],
   "author": "AJC",
   "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.4.7"
+  },
   "dependencies": {
-    "dotenv": "^16.4.5",
+    "hello": "file:",
     "hello": "file:"
   }
 }
