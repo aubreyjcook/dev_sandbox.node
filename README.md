@@ -11,3 +11,10 @@ Technology-agnostic sandbox environment for developing implementations of progra
 ## TODOs
 
 - [ ] Todo 1
+
+## Running
+
+```
+cd node-sandbox\program
+npm run
+```
